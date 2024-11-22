@@ -34,7 +34,7 @@ abgelegt werden.
 
 ## Verwendung
 
-Installier zuerst die Abhängigkeiten:
+Installiere zuerst die Abhängigkeiten:
 
  ```bash
  pip install -r requirements.txt
